@@ -2,7 +2,7 @@
 
 
 Lenguajes favoritos:
-C - C++ - C# - Assembler
+C - C++ - C#
 
 No me gusta:
 JavaScript
